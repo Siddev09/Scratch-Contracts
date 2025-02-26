@@ -1,1 +1,1 @@
-MADE FROM SCARATCH AND TESTED ON THIRDWEB FOR CONCEPTUAL PURPOSE
+Created from scratch and tested on Thirdweb for conceptual purposes
