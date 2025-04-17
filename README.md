@@ -1,1 +1,1 @@
-Created from scratch and tested on Thirdweb for conceptual purposes
+Created from scratch with tests for conceptual purposes
